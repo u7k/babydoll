@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/11250400/130321431-1b53a6b2-70ba-4c8a-b101-ebd78b6bc0d4.png" alt="logo" />
 </p>
-<p align="center">VST3 | AU | macOS</p>
+<p align="center">VST3 | macOS</p>
 <p align="center">
 <img width="1014" alt="screenshot" src="https://user-images.githubusercontent.com/11250400/130321489-b1490a0f-6d5a-4225-8cae-8f582403189a.png">
 </p>
